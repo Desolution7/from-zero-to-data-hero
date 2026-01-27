@@ -1,18 +1,19 @@
-# Milestone 2 – Basic Formulas & Functions
+# Milestone 2 – Excel Functions & Formulas
 
-## Lessons covered:
-- Formulas and Functions Explained
-- SUM, COUNT, AVERAGE, MIN, MAX
-- Handling Errors in Calculations
-- Absolute vs Relative Referencing
-- Autosum and Autofill Options
+## Topics Covered
+- SUM and AutoSUM
+- COUNT, COUNTA, COUNTBLANK
+- AVERAGE, MIN, MAX
+- Error handling in formulas
+- Relative and absolute cell referencing
+- Custom Autofill
 - Flash Fill
-- Exercise 02: Basic Functions Practice
 
-## Exercises / Practice files:
-- Exercise_02.xlsx
+## Key Skills Developed
+- Writing and autofilling formulas
+- Applying correct cell references
+- Performing descriptive calculations
+- Ensuring formulas update dynamically when input values change
 
-## Reflection / Notes:
-- Key takeaways
-- Challenges solved
-- Screenshots included
+## Exercises Completed
+- Exercise 01 – Working with formulas and functions
