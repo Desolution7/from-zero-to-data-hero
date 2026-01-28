@@ -1,21 +1,16 @@
-# Milestone 3 – Named Ranges & Formatting
+# Milestone 3 – Named Ranges
 
-## Lessons covered:
-- What are Named Ranges
+## Topics Covered
+- Named Ranges
 - Managing Named Ranges
-- Using Named Ranges
-- Applying Number, Date, and Time Formats
-- Formatting Cells, Rows, Columns
-- Format Painter
-- Improving Readability with Cell Styles
-- Controlling Data Input
-- Adding Navigation Buttons
-- Exercise 03: Formatting & Named Ranges
+- Using Named Ranges in Formulas
 
-## Exercises / Practice files:
-- Exercise_03.xlsx
+## Key Learnings
+- Multiple methods of creating named ranges
+- Improved formula readability and maintainability
+- Automatic absolute referencing
+- Reduced errors in formulas
+- Faster navigation across worksheets
 
-## Reflection / Notes:
-- Key takeaways
-- Challenges solved
-- Screenshots included
+## Outcome
+All formulas were successfully rewritten using named ranges, improving clarity, accuracy, and scalability of the workbook.
