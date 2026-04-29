@@ -1,19 +1,21 @@
-# Milestone 4 – Logical Functions & IFs
+# Milestone 4 – Logical Functions
 
-## Lessons covered:
-- Logical Functions Overview
-- The IF Function
+## Topics Covered
+- Cell Styles and Readability
+- Controlling Data Input
+- Navigation Buttons
+- Logical Functions
+- IF Function
 - Nested IFs
-- The IFS Function
+- IFS Function
 - Conditional IFs
 - Multiple Criteria
 - Error Handling
-- Exercise 04: Logical Functions Practice
 
-## Exercises / Practice files:
-- Exercise_04.xlsx
+## Exercises Completed
+- Exercise 01 – Logical Functions (IF, Nested IF, IFS)
+- Exercise 02 – SUMIF and SUMIFS
 
-## Reflection / Notes:
-- Key takeaways
-- Challenges solved
-- Screenshots included
+## Outcome
+This milestone focused on applying logical functions to analyze and manipulate data based on conditions.
+It strengthened my ability to build dynamic formulas, handle multiple criteria, and perform conditional aggregations using Excel.
