@@ -1,18 +1,17 @@
-# Milestone 5 – Lookups & References
+# Milestone 5 – Lookup Functions
 
-## Lessons covered:
-- VLOOKUP (Exact & Approximate Match)
+## Topics Covered
+- VLOOKUP (Exact Match)
+- VLOOKUP (Approximate Match)
 - HLOOKUP
 - INDEX and MATCH
 - XLOOKUP and XMATCH
 - OFFSET Function
 - INDIRECT Function
-- Exercise 05: Lookup Functions Practice
 
-## Exercises / Practice files:
-- Exercise_05.xlsx
+## Exercises Completed
+- Dynamic lookup system using dropdown selection
 
-## Reflection / Notes:
-- Key takeaways
-- Challenges solved
-- Screenshots included
+## Outcome
+Developed the ability to retrieve and display related data dynamically using lookup functions.
+This milestone strengthened understanding of data relationships and improved problem-solving using Excel formulas.
