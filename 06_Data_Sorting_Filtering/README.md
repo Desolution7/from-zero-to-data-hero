@@ -1,18 +1,17 @@
-# Milestone 6 – Data Sorting & Filtering
+# Milestone 6 – Sorting and Filtering Functions
 
-## Lessons covered:
+## Topics Covered
 - Sorting on Multiple Columns
 - Sorting Using a Custom List
 - SORT and SORTBY Functions
 - Advanced Filter
 - UNIQUE Function
 - FILTER Function
-- Exercise 06: Sorting & Filtering Practice
 
-## Exercises / Practice files:
-- Exercise_06.xlsx
+## Exercises Completed
+- Dynamic filtering using UNIQUE and FILTER
+- Multi-column sorting using SORTBY
 
-## Reflection / Notes:
-- Key takeaways
-- Challenges solved
-- Screenshots included
+## Outcome
+Developed the ability to organize, filter, and dynamically display data using modern Excel functions.
+This milestone strengthened practical skills in data exploration, user-driven filtering, and structured sorting techniques.
